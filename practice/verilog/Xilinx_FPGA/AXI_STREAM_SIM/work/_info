@@ -1,0 +1,134 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/use2/Desktop/IC/Xilinx_FPGA/AXI_STREAM_SIM
+vaxis_fifo_connection
+Z1 !s110 1662215665
+!i10b 1
+!s100 ITP7ONA^gf>4b:67TbZ>g3
+ICL`X`T0mKUPR0NAZgBGJj1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1662191827
+8FIFO_AXI_STREAM_connection.v
+FFIFO_AXI_STREAM_connection.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662215665.000000
+Z5 !s107 S_AXI_STREAM.v|M_AXI_STREAM.v|FIFO_AXI_STREAM_connection.v|
+Z6 !s90 -reportprogress|300|FIFO_AXI_STREAM_connection.v|M_AXI_STREAM.v|S_AXI_STREAM.v|
+!i113 1
+Z7 tCvgOpt 0
+vaxis_tb
+!s110 1662190521
+!i10b 1
+!s100 2PjYZN6]OT^o>WlXa`zAC3
+Ie2Ak<=`1a6N<F2XoND<HF1
+R2
+R0
+w1662190518
+8AXIS_TB.v
+FAXIS_TB.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1662190520.000000
+Z8 !s107 S_AXI_STREAM.v|M_AXI_STREAM.v|FIFO_AXI_STREAM_connection.v|AXIS_TB.v|
+Z9 !s90 -reportprogress|300|AXIS_TB.v|FIFO_AXI_STREAM_connection.v|M_AXI_STREAM.v|S_AXI_STREAM.v|
+!i113 1
+R7
+vmyip_new_v1_0_M00_AXIS
+R1
+!i10b 1
+!s100 GUX5NhPKozl`@__i;c]5N3
+Inj0jXheM:hZ4>oDgd>hOT3
+R2
+R0
+w1662190305
+Z10 8M_AXI_STREAM.v
+Z11 FM_AXI_STREAM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+nmyip_new_v1_0_@m00_@a@x@i@s
+vmyip_new_v1_0_S00_AXIS
+R1
+!i10b 1
+!s100 LRQzSLeWeBKAfhhdkbRV<3
+IP0;:FHd8S1Wm;e86L>Fn^2
+R2
+R0
+w1662202274
+Z12 8S_AXI_STREAM.v
+Z13 FS_AXI_STREAM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+nmyip_new_v1_0_@s00_@a@x@i@s
+vmyip_test_v1_0_M00_AXIS
+Z14 !s110 1662187348
+!i10b 1
+!s100 m2j?YZlQTUBbIAaPcJY6;1
+I1]zP^_2_RoGU`ZA40Jibc2
+R2
+R0
+w1662183300
+R10
+R11
+L0 3
+R3
+r1
+!s85 0
+31
+Z15 !s108 1662187348.000000
+R8
+R9
+!i113 1
+R7
+nmyip_test_v1_0_@m00_@a@x@i@s
+vmyip_test_v1_0_S00_AXIS
+R14
+!i10b 1
+!s100 =IFY7cohM?<bR2NF=^?aW2
+IGm_0lgXgFLD0lZ4Cai^Bi2
+R2
+R0
+w1662187313
+R12
+R13
+L0 3
+R3
+r1
+!s85 0
+31
+R15
+R8
+R9
+!i113 1
+R7
+nmyip_test_v1_0_@s00_@a@x@i@s

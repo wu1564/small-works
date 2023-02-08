@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/use2/Desktop/IC/StringMachine
+vPATTERN
+Z1 !s110 1648031816
+!i10b 1
+!s100 WWcOn@B0?W]35HR?BPWD<2
+IcYgR0nobbC;J]=he[=cX^1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1648030807
+8PATTERN.v
+FPATTERN.v
+L0 26
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1648031816.000000
+Z5 !s107 PATTERN.v|SME.v|TESTBED.v|
+Z6 !s90 -reportprogress|300|TESTBED.v|SME.v|PATTERN.v|+define+RTL|
+!i113 1
+Z7 !s92 +define+RTL
+Z8 tCvgOpt 0
+n@p@a@t@t@e@r@n
+vSME
+R1
+!i10b 1
+!s100 2=J26?O5JMB4:bS@<kzcm1
+IU620UX^_DZR7Dco0PaR8^0
+R2
+R0
+w1648031793
+8SME.v
+FSME.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@s@m@e
+vTESTBED
+R1
+!i10b 1
+!s100 ;5dEOZQ;JAMoTU]?]NjB00
+I5N9:EUe8agJcMX5oOFWI71
+R2
+R0
+w1648030054
+8TESTBED.v
+FTESTBED.v
+L0 23
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+n@t@e@s@t@b@e@d
